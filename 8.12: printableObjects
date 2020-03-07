@@ -1,0 +1,3 @@
+/*How do you write a class whose objects can easily be printed on the console?*/
+
+Define a toString method in the class.
