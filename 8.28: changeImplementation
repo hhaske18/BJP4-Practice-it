@@ -1,0 +1,4 @@
+/*How does encapsulation allow you to change the internal implementation of a class?*/
+
+Answer:
+When a class is encapsulated clients cannot directly access its fields, so changing those fields will not disturb client
