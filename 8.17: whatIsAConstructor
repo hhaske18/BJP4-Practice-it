@@ -1,0 +1,6 @@
+/*Which of the following statements about constructors are true? Check all that apply.*/
+
+Answer:
+A constructor is a special method that creates an object and initializes its state. 
+It's the method that is called when you use the new keyword. 
+A constructor is declared without a return type.
