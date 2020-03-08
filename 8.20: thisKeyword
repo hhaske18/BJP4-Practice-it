@@ -1,0 +1,7 @@
+/*What is the meaning of the keyword 'this', and how can the keyword be used? Check all that apply.*/
+
+Answer:
+The keyword this refers to the object on which a method or constructor has been called (sometimes called the "implicit parameter"). 
+It is used to access or set the object's field values, 
+to call the object's methods, 
+or to call one constructor from another.
