@@ -1,0 +1,5 @@
+/*When fields are made private, client programs cannot see them directly. 
+How do you allow classes access to read these fields' values, without letting the client break the object's encapsulation?*/
+
+Answer:
+Create an accessor method that returns the field's value
