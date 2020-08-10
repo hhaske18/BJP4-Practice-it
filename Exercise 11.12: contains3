@@ -1,0 +1,15 @@
+public static boolean contains3 (List<String> list) {
+  HashSet<String> aux =  new HashSet<>(list);
+  for (String str1 : aux ) {
+    int count = 0;
+    for (String str2 : list) {
+      if (str1.equals(str2)) {
+        count++;
+        if (count == 3) {
+            return true;
+        }
+      }
+    }
+  }
+  return false;
+}//end of contains3
